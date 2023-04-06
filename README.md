@@ -1,5 +1,6 @@
-### 👋
+👋
 -------------------------------------------
+# Introduction
 
 My name is Gabriel Martell, and I am a Third Year Honours student at Carleton University, currently in the Video Game Development Stream.
 
