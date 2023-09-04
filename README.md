@@ -5,7 +5,7 @@
 # Introduction #
 👋
 
-My name is Gabriel Martell, and I am a Third Year Honours student at Carleton University, currently in the Video Game Development Stream.
+My name is Gabriel Martell, and I am a Fourth Year Honours student at Carleton University, currently in the Video Game Development Stream.
 
     "Deficiens perficere pararis"
     
@@ -13,8 +13,8 @@ My name is Gabriel Martell, and I am a Third Year Honours student at Carleton Un
 >Nothing in the works as of yet.
 
 *Some things about me:*
->I'm 20 years old, a sneakerhead, a line cook, Canadian, and I like anteaters.
-
+>I'm 20 years old - and I'm into making cars look cool and working as a line cook
+>
 <a href="https://www.linkedin.com/in/gabriel-martell-8a0a04252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielmartell" height="30" width="40" /></a>
 -----------------------------------------
 ***What do I know?***
