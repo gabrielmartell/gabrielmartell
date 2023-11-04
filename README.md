@@ -13,7 +13,7 @@ My name is Gabriel Martell, and I am a Fourth Year Honours student at Carleton U
 >Nothing in the works as of yet.
 
 *Some things about me:*
->I'm 20 years old - and I'm into making cars look cool and working as a line cook
+>I'm 21 years old - and I'm into making cars look cool and working as a line cook
 >
 <a href="https://www.linkedin.com/in/gabriel-martell-8a0a04252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielmartell" height="30" width="40" /></a>
 -----------------------------------------
