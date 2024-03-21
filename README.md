@@ -10,7 +10,7 @@ My name is Gabriel Martell, and I am a Fourth Year Honours student at Carleton U
     "Deficiens perficere pararis"
     
 *Current Projects:*
->Nothing in the works as of yet.
+>Trying to reteach myself to be more fluent with HTML, CSS and JSON!
 
 *Some things about me:*
 >I'm 21 years old - and I'm into making cars look cool and working as a line cook
